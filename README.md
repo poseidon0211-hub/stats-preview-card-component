@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://www.frontendmentor.io/solutions/nft-preview-card-component-_ccuzJJWio/" target="_blank" rel="noreferrer"> Solution </a>
-- Live Site URL: <a href="https://nft-preview-carrd.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
+- Live Site URL: <a href="https://stats-preview-carrd-component.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
 
