@@ -6,7 +6,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#Screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,10 +24,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+  
 ### Screenshot
 
-![](screenshot/Desktop.png)
-![](screenshot/Mobile.png)
+![](Screenshot/Desktop.png)
+![](Screenshot/Mobile.png)
 
 ### Links
 
